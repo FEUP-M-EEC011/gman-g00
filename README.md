@@ -1,6 +1,6 @@
-## gman-g00
+# gman-g00
 
-# Information Systems sample repositório
+## Information Systems sample repositório
 
 ## Content
 * [Wiki](https://github.com/FEUP-M-EEC011/gman-g00/wiki)
