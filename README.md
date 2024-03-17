@@ -1,6 +1,7 @@
 # gman-g00
 
-## Information Systems sample repositório
+## Information Systems sample repository
+This repository illustrates how to use github to manage your SINF project
 
 ## Content
 * [Wiki](https://github.com/FEUP-M-EEC011/gman-g00/wiki)
